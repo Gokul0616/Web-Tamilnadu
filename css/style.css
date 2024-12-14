@@ -177,7 +177,9 @@ h6 {
   background-color: #fff;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.3);
 }
-
+.header-scrolled .container .scrollto  span {
+color:#413e66
+}
 #header.header-scrolled #topbar,
 #header.header-pages #topbar {
   display: none;
@@ -195,7 +197,7 @@ h6 {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: #413e66;
+  color:#fff;
   text-decoration: none;
 }
 
