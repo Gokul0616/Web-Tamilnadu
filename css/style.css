@@ -1623,3 +1623,9 @@ color:#413e66
 .box-link:hover .box {
     transform: scale(1.05); /* Example hover effect */
 }
+.credits a {
+  font-weight: bold;
+}
+.section-title{
+  color: #000;
+}
