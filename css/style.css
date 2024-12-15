@@ -1614,3 +1614,12 @@ color:#413e66
     margin-bottom: 25px;
   }
 }
+
+/* our ptoducts */
+
+.box-link {
+    text-decoration: none;
+}
+.box-link:hover .box {
+    transform: scale(1.05); /* Example hover effect */
+}
